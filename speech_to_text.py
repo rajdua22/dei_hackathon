@@ -19,9 +19,9 @@ def get_text():# create the recognizer
     result = r.recognize_google(audio)
 
     # export the result 
-    with open('text\my_result.txt',mode ='w') as file: 
-        file.write("Recognized text:") 
-        file.write("\n") 
-        file.write(result) 
+    #with open('text\my_result.txt',mode ='w') as file: 
+     #   file.write("Recognized text:") 
+      #  file.write("\n") 
+       # file.write(result) 
 
-    print("Exporting process completed!")
+    return result
