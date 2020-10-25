@@ -18,7 +18,6 @@ wheelchair-bound
 retarded
 bipolar
 disabled
-
 crackhead
 pioneer
 crusader
@@ -31,8 +30,13 @@ oriental
 Latino
 whitelist
 blacklist
-
 manhood
+mailman
+mailmen
+policeman
+policemen
+postman
+postmen
 businessman
 businessmen
 freshman
@@ -42,7 +46,6 @@ guys
 man and wife
 sex-change
 actress
-
 addict
 ex-con
 felon
@@ -50,7 +53,7 @@ con
 predator
 alien
 illegal immigrant
-
+alcoholic
 inner-city
 disadvantaged
 homeless
